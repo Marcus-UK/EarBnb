@@ -4,7 +4,7 @@
 At the beginning of the week, our cohort were tasked with working in teams to build copies of Airbnb. We were free to use any programming language we desired in order to complete the task. Our group, Byte 1, decided to stick with languages we had spent time learning (Ruby, HTML, CSS and a bit of JavaScript) to ensure that we could focus on one of the main goals of the week "work as part of a team to build a web app".
 
 ## User Stories
-
+```
 As a property owner,
 So I can rent my property,
 I would like to list my property.
@@ -36,7 +36,7 @@ I would like to be able to message a property owner.
 As a property owner,
 So I can communicate with renters,
 I would like to reply to messages.
-
+```
 ## Getting Started
 
 ### Prerequisites
